@@ -21,9 +21,6 @@
     },
     {
       "uidString": "amplitude_https://cdn.jsdelivr.net/npm/@amplitude/analytics-browser@1.6.1/lib/scripts/amplitude-min.umd.js"
-    },
-    {
-      "uidString": "UUID_https://cdn.jsdelivr.net/npm/uuidjs@4.2.12/src/uuid.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
